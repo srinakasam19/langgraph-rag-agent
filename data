@@ -1,0 +1,6 @@
+data (sample text)
+LangGraph is a framework built on top of LangChain that helps developers design workflows as graphs.
+
+Each node represents a task such as calling an LLM, retrieving documents, or executing tools.
+
+LangGraph enables stateful and multi-step AI applications.
