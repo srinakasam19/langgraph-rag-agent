@@ -151,16 +151,4 @@ Answer:
 
 ------------------------------------------------------------------------
 
-## Future Improvements
 
--   Add document loaders (PDF / Web)
--   Add memory for conversations
--   Implement advanced RAG techniques
--   Add evaluation metrics
-
-------------------------------------------------------------------------
-
-## Author
-
-Developed as part of learning **AI agents, LangGraph workflows, and RAG
-systems**.
